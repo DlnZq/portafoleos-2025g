@@ -6,7 +6,7 @@
 
 **_SOBRE MI_**      
 
-**Yo me especializo en el Desarrollo Web**, Creacion programas a pequeña escala. Actualmente me encuentro en **busqueda de oportunidades** para realizar mi practica profesional tanto como lo puede ser de **Back-End** como puede ser **Front-End** , **ya que 
+ **Yo me especializo en el Desarrollo Web**, Creacion programas a pequeña escala. Actualmente me encuentro en **busqueda de oportunidades** para realizar mi practica profesional tanto como lo puede ser de **Back-End** como puede ser **Front-End** , **ya que 
 se me facilida las 2 ramas** , el cual tendria yo el **objetivo de fuertecer mis conocimientos y llegar a poner en practica lo aprendido**, contribuir en proyectos reales y continuar **Desarrollando mis habilidades en las 2 areas las cuales son 
 las mencionadas anteriormente**. 
 
@@ -43,8 +43,8 @@ dentro de un entorno profesional de equipo.
 En el perfil de [GitHub](https://github.com/DlnZq) que esta en mi poder podras encontrar mis **proyectos**, **documentacion** y **bitacoras** de la practica profesional
 
 _______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
-
-**_HABILIDADES_**
+                                                                                                                                                                                                                                            
+**_HABILIDADES_**                                                                                                                                                                                                                           
 _______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 **_Lenguajes De Programacion_**
