@@ -40,7 +40,7 @@ _ONJETIVO_
 Relaconarme con el entorno laboral y poner en practica mis habilidades tecnicas las cuales adquiri en mis 2 años de estudio, seguir aprendiendo y desarrollando mis habilidades tanto tecnicas como habilidades blandas 
 dentro de un entorno profesional de equipo
 
-En el perfil de Github que esta en mi poder podras encontrar mis proyectos, documentacion y bitacoras de la practica profesional
+En el perfil de [GitHub]()` [1] que esta en mi poder podras encontrar mis proyectos, documentacion y bitacoras de la practica profesional
 
 _______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
